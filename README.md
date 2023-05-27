@@ -1,13 +1,3 @@
+## Rescript Uws
 
-
-# Build
-```
-npm run build
-```
-
-# Watch
-
-```
-npm run watch
-```
-
+Rescript bindings for uWebsockets.js

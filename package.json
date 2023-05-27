@@ -9,7 +9,7 @@
   "keywords": [
     "ReScript"
   ],
-  "author": "",
+  "author": "damaera",
   "license": "MIT",
   "devDependencies": {
     "rescript": "11.0.0-beta.2",
