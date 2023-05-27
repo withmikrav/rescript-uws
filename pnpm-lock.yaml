@@ -1,0 +1,24 @@
+lockfileVersion: 5.4
+
+specifiers:
+  rescript: 11.0.0-beta.1
+  uWebSockets.js: github:uNetworking/uWebSockets.js#v20.25.0
+
+devDependencies:
+  rescript: 11.0.0-beta.1
+  uWebSockets.js: github.com/uNetworking/uWebSockets.js/e6ecc2102d68d99dc35969b0898fbd201e0f252b
+
+packages:
+
+  /rescript/11.0.0-beta.1:
+    resolution: {integrity: sha512-oKgMJAj/hLQFdWcp3hDcRsTJ/HaVdX5Ze41Egj9XUCBzKP89026e/I3eV4N3+OvLPskvvFwiTEVeR3yiDGVTYA==}
+    engines: {node: '>=10'}
+    hasBin: true
+    requiresBuild: true
+    dev: true
+
+  github.com/uNetworking/uWebSockets.js/e6ecc2102d68d99dc35969b0898fbd201e0f252b:
+    resolution: {tarball: https://codeload.github.com/uNetworking/uWebSockets.js/tar.gz/e6ecc2102d68d99dc35969b0898fbd201e0f252b}
+    name: uWebSockets.js
+    version: 20.25.0
+    dev: true
